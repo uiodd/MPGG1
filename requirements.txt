@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas==2.3.3
+matplotlib==3.10.6
+scikit-learn==1.1.1
+scipy==1.15.3
+torch==1.12.0+cu113
+torchvision==0.13.0+cu113
+torchaudio==0.12.0+rocm5.1.1
+tensorboard==2.20.0
+requests==2.32.5
